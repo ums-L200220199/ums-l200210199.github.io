@@ -79,4 +79,5 @@ mahasiswa1.ujian_uts(88)
 mahasiswa1.ujian_uas(92)
 
 # Menghitung nilai akhir
+# test
 mahasiswa1.hitung_nilai_akhir()
