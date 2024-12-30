@@ -5,5 +5,5 @@ kuliah.py
 
 
 >>TUGAS SEBELUM UAS:
-1.FOLDER clustering: clustering tanpa metaflow
-2.FOLDER ipsd_metaflow: clustering menggunakan metaflow
+1.FOLDER clustering_tanpa_metaflow: clustering tanpa menggunakan metaflow
+2.FOLDER clutering_metaflow: clustering menggunakan metaflow
